@@ -1,0 +1,6 @@
+@DemoVerticalSliceArchitecture_HostAddress = http://localhost:5084
+
+GET {{DemoVerticalSliceArchitecture_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
